@@ -37,9 +37,9 @@
 },{
 "id":"CE",
 "c":"CE <Start / Stop Weather Event>",
-"e":"admincheat CE start_superheat",
+"e":"admincheat CE startsuperheat",
 "t":"Environment",
-"d":"Starts or stops a weather event. (start_superheat, stop_superheat, start_sandstorm, stop_sandstorm, start_electricalstorm, stop_electricalstorm, start_rain, stop_rain)"
+"d":"Starts or stops a weather event. (startsuperheat, stopsuperheat, startsandstorm, stopsandstorm, startelectricalstorm, stopelectricalstorm, startrain, stoprain, startfog, stopfog)"
 },{
 "id":"ChangeSize",
 "c":"ChangeSize <SizeMult>",
